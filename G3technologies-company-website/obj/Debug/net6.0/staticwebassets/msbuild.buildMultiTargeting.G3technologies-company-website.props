@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G3technologies-company-website.props" />
+</Project>

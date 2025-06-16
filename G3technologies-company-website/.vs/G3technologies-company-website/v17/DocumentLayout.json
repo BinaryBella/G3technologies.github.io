@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|c:\\users\\chath\\onedrive\\desktop\\g3 technologies - intern\\g3technologies- company website\\g3technologies-company-website\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5D801D-9687-499B-A411-D1061DA85E6A}|G3technologies-company-website.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:27:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T15:27:47.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:27:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:27:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:27:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:27:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-16T15:24:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chath\\OneDrive\\Desktop\\G3 Technologies - Intern\\G3technologies- company website\\G3technologies-company-website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:17:47.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

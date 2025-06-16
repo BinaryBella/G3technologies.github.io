@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "G3technologies-company-website/1.0.0": {
+        "runtime": {
+          "G3technologies-company-website.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G3technologies-company-website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
